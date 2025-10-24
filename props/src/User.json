@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "age": 28,
+    "city": "Mumbai",
+    "profession": "Software Engineer"
+  },
+  {
+    "name": "Sneha Kapoor",
+    "age": 25,
+    "city": "Delhi",
+    "profession": "Graphic Designer"
+  },
+  {
+    "name": "Rajesh Sharma",
+    "age": 35,
+    "city": "Jaipur",
+    "profession": "Digital Marketer"
+  },
+  {
+    "name": "Priya Nair",
+    "age": 30,
+    "city": "Bangalore",
+    "profession": "Data Analyst"
+  },
+  {
+    "name": "Vikram Singh",
+    "age": 40,
+    "city": "Chandigarh",
+    "profession": "Project Manager"
+  }
+]
