@@ -13,7 +13,7 @@ const WeatherContext = ({ children }) => {
       if (!city) return;
       try {
         const res = await fetch(
-          `https://api.weatherapi.com/v1/forecast.json?key=45d8154c3a8144cabde60224252708&q=${city}&days=7&aqi=yes&alerts=yes&astro=yes`
+          `https://api.weatherapi.com/v1/forecast.json?key=*yourKey*&q=${city}&days=7&aqi=yes&alerts=yes&astro=yes`
         );
         const data = await res.json();
         setweatherData(data);
